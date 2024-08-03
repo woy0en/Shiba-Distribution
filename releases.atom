@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/woy0en/Shiba-distribution/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/woy0en/Shiba-distribution/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/woy0en/Shiba-distribution/releases.atom"/>
+  <title>Release notes from ShibaSV</title>
+  <updated>2024-07-26T20:54:35+09:00</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/833774365/v1.1.0</id>
+    <updated>2024-07-26T21:28:37+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/woy0en/Shiba-distribution/releases/tag/v1.1.0"/>
+    <title>v1.1.0</title>
+    <content type="html">&lt;p&gt;샘플 제작 완료&lt;/p&gt;</content>
+    <author>
+      <name>BabyBear7</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/175657446?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/833774365/v1.0.3</id>
+    <updated>2024-07-26T18:50:18+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/woy0en/Shiba-distribution/releases/tag/v1.0.3"/>
+    <title>Release v1.0.3</title>
+    <content type="html">&lt;p&gt;백그라운드 이미지 수정 및 배포 패키지 수정&lt;/p&gt;</content>
+    <author>
+      <name>BabyBear7</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/175657446?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/833774365/v1.0.2</id>
+    <updated>2024-07-26T16:20:09+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/woy0en/Shiba-distribution/releases/tag/v1.0.2"/>
+    <title>Release v1.0.2</title>
+    <content type="html">&lt;p&gt;로딩 화면, 아이콘 업데이트&lt;/p&gt;</content>
+    <author>
+      <name>BabyBear7</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/175657446?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/833774365/v1.0.1</id>
+    <updated>2024-07-26T04:56:04+09:00</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/woy0en/Shiba-distribution/releases/tag/v1.0.1"/>
+    <title>Release v1.0.1</title>
+    <content type="html">&lt;p&gt;로고 업데이트&lt;/p&gt;</content>
+    <author>
+      <name>BabyBear7</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/175657446?s=60&amp;v=4"/>
+  </entry>
+</feed>
